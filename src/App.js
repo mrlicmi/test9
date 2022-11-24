@@ -8,15 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. Again AAAAAAAAAAAAfffffffffffffff
-          Dodatak 1
-          Dodatak 2343333
-          dodatak 2
-          sdfsdffffffffffffffff
-          adfadfadfasf
-          <p>99999999999999  </p>
-          <p>10101010101  </p>
-          <p> 555555555555 </p>
-          <p> 66666666666  </p>
+        <p> 66666666666  </p>
         </p>
         <a
           className="App-link"
